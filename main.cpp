@@ -6,6 +6,7 @@ int main() {
     const double _0to200 = 93.3;
     const double _201to400 = 187.9;
     const double _401 = 280.6;
+
     int month; // 달
     int power; // 전력
     int basic_rate; // 기본요금
